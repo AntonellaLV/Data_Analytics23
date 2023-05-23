@@ -1,6 +1,6 @@
 # Importar módulo
 import psycopg2
-import config
+# import config
 
 # Establece la conexión a la base de datos
 conn = psycopg2.connect(
